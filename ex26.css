@@ -1,0 +1,17 @@
+card__header {
+    background-color: hsl(180, 31%, 95%);
+    ...
+  }
+  
+  card__header > button__body {
+    border: none;
+    ...
+  }
+  
+  card__header > button:hover {
+     background-color: hsl(180, 25%, 73%);
+  }
+  
+  card__header > button:active {
+    background-color: hsl(180, 29%, 50%);
+  }
