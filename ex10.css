@@ -1,0 +1,11 @@
+.card__dog--type1 header {
+    background-color: green;
+}
+
+.card__dog--type2 header {
+    background-color: purple;
+}
+
+.card__dog--type3 header {
+    background-color: orange;
+}
