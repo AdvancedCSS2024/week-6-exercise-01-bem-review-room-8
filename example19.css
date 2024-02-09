@@ -1,0 +1,5 @@
+.card:nth-of-type(even) .card__basked-button {
+  /*Nesting can cause issues, depending on how it is nested, 
+        it might not result in the resired layout*/
+  border: solid brown 500px;
+}
